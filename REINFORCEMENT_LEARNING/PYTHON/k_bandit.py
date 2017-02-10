@@ -103,7 +103,6 @@ def k_bandit():
             ax2.legend()
             plt.show()
 
-plt.show()
 
 if __name__ == '__main__':
     k_bandit()
